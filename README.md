@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fundamental and unique projects.
 - 📫 How to reach me? well, you can reach me on Git Hub my user ID is durgesh18-collab.
 - 😄 Pronouns: sir ji.
-- ⚡ Fun fact: still learning programing in the age of AI.
+- ⚡ Fun fact: I am still learning programming in the age of AI.
 
 <!---
 durgesh18-collab/durgesh18-collab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
