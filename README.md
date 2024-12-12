@@ -6,7 +6,7 @@
 - 😄 Pronouns: sir ji.
 - ⚡ Fun fact: I am still learning programming in the age of AI.
 
-author = swayam mishra ji
+author = Duresh MIshra "_".
 
 
 <!---
