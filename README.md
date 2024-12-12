@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on fundamental and unique projects.
 - 📫 How to reach me? well, you can reach me on Git Hub my user ID is durgesh18-collab.
-- 😄 Pronouns: sir ji.
+- 😄 Pronouns: Data professional.
 - ⚡ Fun fact: I am still learning programming in the age of AI.
 
 author = Duresh MIshra "_".
