@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @durgesh18-collab
+- 👋 Hi, I’m @durgesh.da
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on fundamental and unique projects.
