@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @durgesh
+- 👋 Hi, I’m durgesh.
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on fundamental and unique projects.
-- 📫 How to reach me? well, you can reach me on Git Hub my user ID is durgesh18-collab.
+- 📫 How to reach me? well, you can reach me on Git Hub my user ID is durgeshmishrada.
 - 😄 Pronouns: Data professional.
 - ⚡ Fun fact: I am still learning programming in the age of AI.
 
